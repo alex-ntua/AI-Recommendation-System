@@ -3,7 +3,7 @@ CART decision tree from scratch, with preprocessing, exploratory rating analysis
 
 
 ## Files
-- `Recommender_System` — notebook (outputs kept, widget metadata fixed for GitHub)
+- `Recommender_System.ipynb` — notebook (outputs kept, widget metadata fixed for GitHub)
 - `Recommender_System_clean.ipynb` — notebook (outputs stripped for small diffs)
 
 ## Quick start
